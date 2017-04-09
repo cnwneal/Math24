@@ -31,7 +31,7 @@ except:
 count=0
 lastCount=len(math24List)
 #maxCount += count
-lastCard=11
+lastCard=13
 
 for a in range(1,lastCard):
     for b in range(1,lastCard):
